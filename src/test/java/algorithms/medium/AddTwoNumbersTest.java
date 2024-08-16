@@ -1,8 +1,8 @@
 package algorithms.medium;
 
-import org.junit.Test;
 
 import algorithms.util.ListNode;
+import org.junit.jupiter.api.Test;
 
 public class AddTwoNumbersTest {
     @Test

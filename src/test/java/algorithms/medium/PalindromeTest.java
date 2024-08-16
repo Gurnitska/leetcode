@@ -1,8 +1,8 @@
 package algorithms.medium;
 
-import org.junit.Test;
 
 import algorithms.easy.Palindrome;
+import org.junit.jupiter.api.Test;
 
 public class PalindromeTest {
     @Test
